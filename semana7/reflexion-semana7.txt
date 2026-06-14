@@ -1,0 +1,15 @@
+Es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma
+tecnológica porque esto les permite participar activamente en la identificación y solución de los problemas 
+que afectan su entorno. Cuando los ciudadanos tienen la posibilidad de reportar situaciones como daños en 
+la infraestructura, problemas ambientales, fallas en los servicios públicos o situaciones de riesgo, se genera
+un registro organizado y accesible que facilita el seguimiento de cada caso. Además, estas plataformas 
+contribuyen a que la información no se pierda y pueda ser consultada por otros miembros de la comunidad 
+y por las entidades responsables de atender las situaciones reportadas.
+
+Asimismo, la consulta de los reportes permite identificar patrones y problemáticas recurrentes, lo que ayuda 
+a establecer prioridades y tomar decisiones basadas en datos reales. Esto fortalece la transparencia, ya que la 
+comunidad puede verificar qué reportes han sido registrados, cuáles están siendo atendidos y cuáles aún requieren gestión. 
+También fomenta la participación ciudadana, el trabajo colaborativo y el control social sobre las acciones de las instituciones. 
+En conjunto, una plataforma tecnológica para reportes comunitarios mejora la comunicación entre ciudadanos y autoridades, 
+promueve una gestión más eficiente de los recursos y contribuye al desarrollo de comunidades más organizadas, informadas y comprometidas 
+con el bienestar colectivo.

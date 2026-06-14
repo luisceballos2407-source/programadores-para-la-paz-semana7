@@ -5,3 +5,48 @@
     "descripcion": "Daño en alumbrado público"
   }
 ]
+
+PRUEBA DE RUTAS POST Y GET
+
+Primero se realizó una petición POST a la ruta http://localhost:3000/reportes enviando el siguiente JSON:
+
+{
+"tipo": "Infraestructura",
+"descripcion": "Daño en alumbrado público"
+}
+
+El servidor recibió la información y la agregó al arreglo de reportes almacenado en la aplicación.
+
+Posteriormente se realizó una petición GET a la misma ruta. Como resultado, el servidor devolvió una lista con los reportes registrados. La respuesta obtenida fue:
+
+[
+{
+"id": 1,
+"tipo": "Infraestructura",
+"descripcion": "Daño en alumbrado público"
+}
+]
+
+Después se envió un segundo reporte mediante una nueva petición POST con la siguiente información:
+
+{
+"tipo": "Ambiente",
+"descripcion": "Acumulación de residuos en una zona comunitaria"
+}
+
+Al consultar nuevamente la ruta GET, el servidor devolvió ambos reportes almacenados:
+
+[
+{
+"id": 1,
+"tipo": "Infraestructura",
+"descripcion": "Daño en alumbrado público"
+},
+{
+"id": 2,
+"tipo": "Ambiente",
+"descripcion": "Acumulación de residuos en una zona comunitaria"
+}
+]
+
+Esto demuestra que la ruta POST permite agregar nuevos reportes y que la ruta GET permite consultar todos los reportes registrados en la aplicación.
